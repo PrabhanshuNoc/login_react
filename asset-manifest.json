@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrabhanshuNoc/login_react/static/css/main.ab2b05a5.css",
+    "main.js": "/PrabhanshuNoc/login_react/static/js/main.03a10b5e.js",
+    "static/js/453.9ebc09cf.chunk.js": "/PrabhanshuNoc/login_react/static/js/453.9ebc09cf.chunk.js",
+    "index.html": "/PrabhanshuNoc/login_react/index.html",
+    "main.ab2b05a5.css.map": "/PrabhanshuNoc/login_react/static/css/main.ab2b05a5.css.map",
+    "main.03a10b5e.js.map": "/PrabhanshuNoc/login_react/static/js/main.03a10b5e.js.map",
+    "453.9ebc09cf.chunk.js.map": "/PrabhanshuNoc/login_react/static/js/453.9ebc09cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2b05a5.css",
+    "static/js/main.03a10b5e.js"
+  ]
+}
